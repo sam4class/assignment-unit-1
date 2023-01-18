@@ -9,3 +9,8 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+img {
+    max-width: 15%;  
+    height: auto;  
+    border-radius: 50%;
+}
