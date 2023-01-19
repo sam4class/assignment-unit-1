@@ -7,7 +7,7 @@ body{
 /* Make the header and footer a different color from the background */
 header{
     color: rgb(107, 50, 107);
-    background-color:rgb(209, 197, 129);
+    background-color: rgb(209, 197, 129);
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -23,6 +23,7 @@ header{
     border-radius: 50%;
     border: 10px solid black
 }
+
  main{
     padding: 50px 60px 50px 90px;
  }
@@ -31,6 +32,7 @@ header{
 ul{
     font-family: Arial, sans-serif;
 }
+
  /* Make your p tag a different color and italic */
  p{
     color: black;
