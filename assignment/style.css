@@ -14,6 +14,7 @@ header{
  h1{
     text-align: center;
     font-family: cursive;
+    padding: 20px, 30px, 20px, 30px;
  }
 
 /* Put a border around your image */
@@ -24,7 +25,7 @@ header{
     border: 10px solid black
 }
  main{
-    padding: 30px 40px 30px 40px;
+    padding: 50px 60px 50px 90px;
  }
 
 /* Change the font-family of your list */
@@ -44,4 +45,3 @@ footer{
 }
 
 
-/* Change the font-family of your list */
