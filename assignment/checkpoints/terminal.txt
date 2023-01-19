@@ -13,7 +13,8 @@ cd..
 mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-you would see all the files inside the current folder you are in
+empty: you would see an error message because there are no files inside that folder
+not empty: you would see all the files listed inside the current folder you are in
 
 # 6 - What is a quick way to create a new file?
 touch
@@ -25,7 +26,7 @@ the number of the git version that is installed on your computer
 to confirm that it picked up the changes you made and where you made them
 
 # 9 - What does the command 'git add .' do?
-it adds the changes you made to your code to git
+it adds the changes you made to git
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main

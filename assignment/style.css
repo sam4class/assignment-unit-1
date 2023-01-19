@@ -2,18 +2,18 @@
 body{
     color: white;
     background-color:rgb(107, 50, 107);
-    
 }
+
 /* Make the header and footer a different color from the background */
 header{
     color: rgb(107, 50, 107);
     background-color:rgb(209, 197, 129);
-    
 }
 
 /* Align the h1 containing your name in the center of the header*/
  h1{
     text-align: center;
+    font-family: cursive;
  }
 
 /* Put a border around your image */
@@ -24,7 +24,6 @@ header{
     border: 10px solid black
 }
  main{
-    font-family:'Gill Sans', sans-serif;
     padding: 30px 40px 30px 40px;
  }
 
